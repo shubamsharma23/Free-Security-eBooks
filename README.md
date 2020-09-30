@@ -12,6 +12,10 @@ If you want to contribute to this list (please do), send a pull request. All con
 The topics include:
 
 - [Android & iOS](#android--ios)
+
+-iOS hacking e-book 
+https://drive.google.com/file/d/1I-KKdhk_P6NhpcLTE6hQ14tmfKxmMDf4/view?usp=drivesdk
+
 - [Cloud Security](#cloud-security)
 - [Defensive Security](#defensive-security)
 - [IoT](#iot)
@@ -42,7 +46,9 @@ The topics include:
 ### Offensive Security
 
 - **Backtrack**
-  - [Hack your Friend using Backtrack](http://hackerspace.cs.rutgers.edu/library/bt5tutorials/HackYourFriend.pdf)
+  - [Hack your Friend using Backtrack]
+  
+  (http://hackerspace.cs.rutgers.edu/library/bt5tutorials/HackYourFriend.pdf)
 - **Kali Linux**
   - [Kali Linux Revealed Book](https://kali.training/)
   - [Windows Pentesting with Kali Linux v2](https://github.com/cyberh3x/books/blob/master/9781782168492-KALI_LINUX_2_WINDOWS_PENETRATION_TESTING.pdf)
